@@ -8,3 +8,9 @@ body{
 	max-width: 1150px;
 	height: 1150px;
 }
+
+@cherset "UTF-8";
+
+article, aside, footer, header, main, nav, section {
+	display: block;
+}
